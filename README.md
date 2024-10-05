@@ -16,7 +16,7 @@ Here you'll find some of my projects!
 ## Contact
 
 - 📧 Email: abhyudhaysr@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/abhyudhay-sr](linkedin.com/in/abhyudhay-s-r-868329241
+- 💼 LinkedIn: [linkedin.com/in/abhyudhay-s-r-868329241](linkedin.com/in/abhyudhay-s-r-868329241
 )
 
 Feel free to reach out if you have any questions or just want to connect!
