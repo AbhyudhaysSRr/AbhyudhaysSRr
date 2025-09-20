@@ -10,8 +10,8 @@ Here you'll find some of my projects!
 
 - 🌍 Based in Buffalo, New York
 - 🎓 Pursuing a Master's in Data Science
-- 💼 Currently on the lookout for Summer (2025) Internships in the United States!
-- 🌱 Actively learning more about the end-to-end ML lifecycle of model training, deployment .
+- 💼 Currently on the lookout for Internships
+- 🌱 Actively learning more about the end-to-end ML lifecycle of model training, deployment
 
 ## Contact
 
