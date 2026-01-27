@@ -2,16 +2,15 @@
 
 Hey there, welcome to my GitHub profile! 👋
 
-I'm a Data Science graduate student, passionate about Data Abalysis and Machine learning.
+I'm a Data Science graduate student, passionate about Data Analysis and Machine learning.
 
 Here you'll find some of my projects!
 
 ## About Me
 
 - 🌍 Based in Buffalo, New York
-- 🎓 Pursuing a Master's in Data Science
-- 💼 Currently on the lookout for Internships
-- 🌱 Actively learning more about the end-to-end ML lifecycle of model training, deployment
+- 🎓 Graduated with a Master's Degree in Data Science
+- 💼 Currently on the lookout for Internships and full time position 
 
 ## Contact
 
